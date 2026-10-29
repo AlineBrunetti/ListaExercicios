@@ -1,0 +1,7 @@
+{
+  "nome": "Brigadeiro",
+  "categoria": "Doces",
+  "preco": "2.50",
+  "estoque": "100",
+  "estoque_minimo": "20"
+}
